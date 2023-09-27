@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @williamcheong0616
-- 👀 I’m interested in Python (ML,DS,Functional Programming), Full Stack Web Development, C & C++.
-- 🌱 I’m currently learning on TARUMT (Dip. Info Tech) focusing on WebDev & Functional Programming
+- 👋 Hi, I'm William!
+- 👀 I’m interested in Data Science, Machine Learning and Full stack development
+- 🌱 I’m currently studying in TARUMT (Dip. Info Tech) focusing on Full stack development, Machine Learning and Artificial Intelligence 
 - 💞️ I’m looking to collaborate on Websites, Basics Python Programming and others!
-- 📫 How to reach me, you may reach me @ williamcheong06@outlook.com
+  
 
